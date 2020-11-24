@@ -36,3 +36,66 @@
     transform: rotate(360deg);
   }
 }
+
+#iteration1 {
+  text-decoration: none;
+  display: flex;
+  border: 1px solid black;
+  width: 800px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#iteration2 {
+  border: 1px solid black;
+  width: 800px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#iteration3 {
+  border: 1px solid black;
+  width: 800px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#iteration5 {
+  border-radius: 20px;
+  padding: 10px;
+  text-align: left;
+  font-size: 0.8em;
+}
+
+#credidCard {
+  text-align: right;
+}
+
+#CreditCardNumber {
+  font-size: 2.5em;
+  text-align: center;
+}
+
+#iteration7 {
+  display: flex;
+  width: 600px;
+  background-color: rgb(73,85,175);
+  margin: 10px;
+  border-radius: 20px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  
+}
+
+#iteration7 img {
+  width: 120px;
+  border-radius: 100px;
+  height: 120px;
+  padding: 20px;
+  margin: 20px;
+}
